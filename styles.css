@@ -2,9 +2,9 @@
     width: 600px;
     border: solid black 2px;
 }
-.square {
-    background-color: black;
-    width: 100px;
-    height: 100px;
-    margin: 10px;
+
+li {
+    font-family: monospace, sans-serif;
+    font-size: 2em;
+    font-weight: 600;
 }
